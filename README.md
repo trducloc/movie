@@ -42,7 +42,7 @@ https://dbdiagram.io/d/65a409d9ac844320aee2491f
    - Click vào Poster --> Ứng dụng trả về chi tiết của phim tương ứng.
    - Gõ keyword để tìm phim theo keyword --> ứng dụng trả về kết quả phù hợp tiêu chí tìm kiếm.
    - Click vào "Xem thêm" --> Ứng dụng trả về danh sách thể loại Phim tương ứng.
-   - Số "1,2,3,..., mũi tên" ở cuối trang khi click vào --> Ứng dụng sẽ chuyển trang tương ứng, hiển thị danh sách phim kế tiếp.
+   - Click "1,2,3,..., mũi tên" ở cuối trang --> Ứng dụng sẽ chuyển trang tương ứng, hiển thị danh sách phim kế tiếp.
 
 4. Chi tiết phim
 
@@ -57,6 +57,7 @@ https://dbdiagram.io/d/65a409d9ac844320aee2491f
 
    - Click vào Poster --> Ứng dụng trả về chi tiết của bài viết tương ứng.
    - Gõ keyword để tìm bài viết theo keyword --> ứng dụng trả về kết quả phù hợp tiêu chí tìm kiếm.
+   - Click "1,2,3,..., mũi tên" ở cuối trang --> Ứng dụng sẽ chuyển trang tương ứng, hiển thị danh sách bài viết kế tiếp.
 
 6. Chi tiết bài viết
 
