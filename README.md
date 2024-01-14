@@ -30,21 +30,25 @@ https://dbdiagram.io/d/65a409d9ac844320aee2491f
    - Click Thể loại, Quốc gia để lọc thể loại phim, lọc quốc gia sản xuất,… Ứng dụng trả về danh sách phim phù hợp.
    - Gõ keyword để tìm phim, bài viết,... theo keyword --> ứng dụng trả về kết quả phù hợp tiêu chí tìm kiếm.
    - Click Đăng nhập để Đăng nhập hoặc Đăng ký tài khoản.
+   
+
+2. Trang chủ
+
    - Click vào Poster --> Ứng dụng trả về chi tiết của phim tương ứng.
    - Click vào "Xem thêm" --> Ứng dụng trả về danh sách Phim hoặc Bài viết tương ứng.
 
-2. Footer
+3. Footer
 
    - Hiển thị thông tin liên hệ cơ bản và tiêu đề chung của trang web.
 
-3. Danh sách phim
+4. Danh sách phim
 
    - Click vào Poster --> Ứng dụng trả về chi tiết của phim tương ứng.
    - Gõ keyword để tìm phim theo keyword --> ứng dụng trả về kết quả phù hợp tiêu chí tìm kiếm.
    - Click vào "Xem thêm" --> Ứng dụng trả về danh sách thể loại Phim tương ứng.
    - Click "1,2,3,..., mũi tên" ở cuối trang --> Ứng dụng sẽ chuyển trang tương ứng, hiển thị danh sách phim kế tiếp.
 
-4. Chi tiết phim
+5. Chi tiết phim
 
    - Người dùng click vào biểu tượng Ngôi sao để chấm điểm cho phim.
    - Click "Xem phim" --> Ứng dụng trả về 1 tab mới để xem phim.
@@ -53,13 +57,13 @@ https://dbdiagram.io/d/65a409d9ac844320aee2491f
    - Click chọn tập phim để lựa chọn tập phim muốn xem (Nếu là phim bộ)
    - Có thể lựa chọn phim liên quan bằng cách click vào poster phim ở góc bên phải, hoặc ở cuối trang.
 
-5. Danh sách bài viết
+6. Danh sách bài viết
 
    - Click vào Poster --> Ứng dụng trả về chi tiết của bài viết tương ứng.
    - Gõ keyword để tìm bài viết theo keyword --> ứng dụng trả về kết quả phù hợp tiêu chí tìm kiếm.
    - Click "1,2,3,..., mũi tên" ở cuối trang --> Ứng dụng sẽ chuyển trang tương ứng, hiển thị danh sách bài viết kế tiếp.
 
-6. Chi tiết bài viết
+7. Chi tiết bài viết
 
    - Sau khi đọc bài viết, cuộn xuống cuối trang, click vào biểu tượng Ngôi sao để chấm điểm cho bài viết.
    - Click vào button "Đánh giá" để viết đánh giá cho bài viết đang đọc.
